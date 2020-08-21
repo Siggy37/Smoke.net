@@ -1,0 +1,9 @@
+D:\projects\csharp\NN\LSTM\bin\Debug\netstandard2.0\LSTM.deps.json
+D:\projects\csharp\NN\LSTM\bin\Debug\netstandard2.0\LSTM.dll
+D:\projects\csharp\NN\LSTM\obj\Debug\netstandard2.0\LSTM.csprojAssemblyReference.cache
+D:\projects\csharp\NN\LSTM\obj\Debug\netstandard2.0\LSTM.AssemblyInfoInputs.cache
+D:\projects\csharp\NN\LSTM\obj\Debug\netstandard2.0\LSTM.AssemblyInfo.cs
+D:\projects\csharp\NN\LSTM\bin\Debug\netstandard2.0\LSTM.pdb
+D:\projects\csharp\NN\LSTM\obj\Debug\netstandard2.0\LSTM.csproj.CoreCompileInputs.cache
+D:\projects\csharp\NN\LSTM\obj\Debug\netstandard2.0\LSTM.dll
+D:\projects\csharp\NN\LSTM\obj\Debug\netstandard2.0\LSTM.pdb

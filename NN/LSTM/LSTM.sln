@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSTM", "LSTM.csproj", "{AB8AFF11-3051-4575-8391-BA53723CC79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNTest", "..\NNTest\NNTest.csproj", "{71314E20-02B2-440D-8A6A-A06E4BDA4B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8AFF11-3051-4575-8391-BA53723CC79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8AFF11-3051-4575-8391-BA53723CC79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8AFF11-3051-4575-8391-BA53723CC79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8AFF11-3051-4575-8391-BA53723CC79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71314E20-02B2-440D-8A6A-A06E4BDA4B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71314E20-02B2-440D-8A6A-A06E4BDA4B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71314E20-02B2-440D-8A6A-A06E4BDA4B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71314E20-02B2-440D-8A6A-A06E4BDA4B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F37556-615C-4772-A83E-6E8D5ACB5E3D}
+	EndGlobalSection
+EndGlobal

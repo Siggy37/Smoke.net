@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NNTest/1.0.0": {
+        "dependencies": {
+          "LSTM": "1.0.0"
+        },
+        "runtime": {
+          "NNTest.dll": {}
+        }
+      },
+      "LSTM/1.0.0": {
+        "runtime": {
+          "LSTM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NNTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LSTM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
